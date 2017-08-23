@@ -1,8 +1,8 @@
 # Alphanine Application Skeleton
 
-Desenvolvido com  [CakePHP](http://cakephp.org) 3.x.
+Desenvolvido com  [CakePHP](http://cakephp.org){:target="_blank"} 3.x.
 
-Link de acesso ao site: alphanine.com.br
+Link de acesso ao site: [AlphaNine](alphanine.com.br){:target="_blank"}
 
 O código do framework pode ser encontrado aqui: [cakephp/cakephp](https://github.com/cakephp/cakephp).
 
